@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbce4ae5-5b56-4ddd-a310-6bd69c0ee4bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/分布式/面试.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/分布式/4.微服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/分布式/4.微服务.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/问题锦集/技巧.md" beforeDir="false" afterPath="$PROJECT_DIR$/问题锦集/技巧.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,10 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2429" y="259" key="IDE.errors.dialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1619081680463" />
+    <state x="598" y="43" key="RollbackChangesDialog" timestamp="1620159713369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="598" y="43" key="RollbackChangesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1620159713369" />
     <state x="178" y="0" key="new project wizard" timestamp="1620154924861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
