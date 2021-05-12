@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbce4ae5-5b56-4ddd-a310-6bd69c0ee4bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/分布式/6.消息队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/分布式/6.消息队列.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
