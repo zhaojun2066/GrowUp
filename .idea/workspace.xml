@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dbce4ae5-5b56-4ddd-a310-6bd69c0ee4bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中间件/Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/中间件/Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/分布式/7.分布式缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/分布式/7.分布式缓存.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/问题锦集/异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/问题锦集/异常.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
